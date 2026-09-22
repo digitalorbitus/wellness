@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Ciao Daniel | Wine Wholesale",
+  title: "wellness",
   description:
-    "Ciao Daniel is a wine wholesaler offering personally selected, globally sourced wines for restaurants, retailers, hotels, bars, and hospitality businesses.",
+    "Feel better, live healthier, and build lasting habits for a balanced lifestyle.",
 };
 
 export default function RootLayout({ children }) {
